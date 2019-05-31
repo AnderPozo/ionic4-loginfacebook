@@ -1,14 +1,20 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content>
-  <div class="ion-padding">
-    The world is your oyster.
-    <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>
-  </div>
+<ion-content class="login-content" padding color="dark">
+  <ion-row>
+    <ion-col>
+      <div>
+        <img src="https://cdn.pixabay.com/photo/2013/01/29/22/06/facebook-76658_960_720.png">
+      </div>
+      <p class="description">Ionic 4</p>
+      <p class="description">Práctica de aplicaciones móviles </p>
+      <p class="description">Grupo 5 login con Facebook</p>
+    </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col>
+      <ion-button class="log-in-button" color="primary" expand="block" (click)="doFbLogin()">
+        Iniciar sesión
+      </ion-button>
+    </ion-col>
+  </ion-row>
 </ion-content>
+

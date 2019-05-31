@@ -1,0 +1,11 @@
+<ion-content *ngIf='userReady' color="dark">
+  <ion-card>
+    <ion-img [src]="user.picture"></ion-img>
+    <ion-card-header>
+      <ion-card-title style="color: white;">{{user.name}}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+    </ion-card-content>
+    <ion-button expand="block" (click)="doFbLogout()">Salir</ion-button>
+  </ion-card>
+</ion-content>
