@@ -8,6 +8,13 @@
 <code>npm install @ionic-native/facebook</code><br>
 <code>npm install @ionic-native/native-storage</code><br>
 <br>
-<h3>Resultado final</h3>
-<img src="http://7optativacms.byethost7.com/logf.jpg">
+<h3>Integrantes</h3>
+<ul>
+  <li>Alvaro Castillo</li>
+  <li>Wladimir Chiliquinga</li>
+  <li>Isaac Obando</li>
+  <li>Jhon Paillacho</li>
+  <li>Anderson Pozo</li>
+</ul>
+
 
