@@ -7,14 +7,6 @@
 <code>ionic cordova plugin add cordova-plugin-facebook4 --variable APP_ID="123456789" --variable APP_NAME="myApplication"</code><br>
 <code>npm install @ionic-native/facebook</code><br>
 <code>npm install @ionic-native/native-storage</code><br>
-<br>
-<h3>Integrantes</h3>
-<ul>
-  <li>Alvaro Castillo</li>
-  <li>Wladimir Chiliquinga</li>
-  <li>Isaac Obando</li>
-  <li>Jhon Paillacho</li>
-  <li>Anderson Pozo</li>
-</ul>
+
 
 
